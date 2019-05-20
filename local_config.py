@@ -1,5 +1,5 @@
 config = dict()
 
-config['data_path'] = '/User/suwenying/Documents/FINC599/project599'
+config['data_path'] = 'your own path'
 config['slash'] = '/'
-config['code_path'] = '/User/suwenying/Documents/FINC599/project599'
+config['code_path'] = 'your own path'
